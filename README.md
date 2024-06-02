@@ -8,7 +8,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Skills
 
-[done]: images\Untitled-1.png "Done"
+[done]: https://github.com/javanala/My-Learning-Tracker/blob/master/images/Untitled-1.png "Done"
 
 | Skill                        | 1<br>Introduction Learn | 2<br>Occasional Use | 3<br>Regular use | 4<br>Regular use |
 | :--------------------------- | :---------------------: | :-----------------: | :--------------: | :--------------: |
