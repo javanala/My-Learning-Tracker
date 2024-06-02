@@ -8,51 +8,51 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Skills
 
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
+[done]: images\Untitled-1.png "Done"
 
-|               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
-|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
-|**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**TypeScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**React hooks**                   | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Redux**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Next.js**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**HTML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Command line**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**StoryBook**                     | ![done][done]     | ![done][done]          | ![done][done]    |
-|**MJML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**EsLint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Yarn**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Markdown**                      | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Node.js**                       | ![done][done]     | ![done][done]          |                  |
-|**Agile**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Jira**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Bitbucket**                     | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Mobile first**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**PostCSS**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Accessibility**                 | ![done][done]     | ![done][done]          |                  |
-|**Working with APIs**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Husky**                         | ![done][done]     | ![done][done]          |                  |
-|**Website Building**              | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Publishing website**            | ![done][done]     | ![done][done]          |                  |
-|**Netlify**                       | ![done][done]     | ![done][done]          |                  |
-|**Backbone**                      | ![done][done]     | ![done][done]          |                  |
-|**jQuery**                        | ![done][done]     | ![done][done]          |                  |
-|**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |
-|**Stylus**                        | ![done][done]     | ![done][done]          |                  |
-|**Open Source Contribution**      | ![done][done]     |                        |                  |
-|**Angular 4**                     | ![done][done]     |                        |                  |
+|               Skill              | 1<br>Introduction Learn | 2<br>Occasional Use| 3<br>Regular use | 4<br>Regular use |
+|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|:-----------------:|
+|**React**                         | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |
+|**TypeScript**                    |                   |                        |                  |                  |
+|**React hooks**                   |                   |                        |                  |                  |
+|**Redux**                         |                   |                        |                  |                  |
+|**JavaScript**                    |                   |                        |                  |                  |
+|**ES6**                           |                   |                        |                  |                  |
+|**Next.js**                       |                   |                        |                  |                  |
+|**HTML**                          |                   |                        |                  |                  |
+|**CSS**                           |                   |                        |                  |                  |
+|**Git**                           |                   |                        |                  |                  |
+|**Command line**                  |                   |                        |                  |                  |
+|**StoryBook**                     |                   |                        |                  |                  |
+|**MJML**                          |                   |                        |                  |                  |
+|**Prettier**                      |                   |                        |                  |                  |
+|**EsLint**                        |                   |                        |                  |                  |
+|**Gulp/Webpack**                  |                   |                        |                  |                  |
+|**NPM**                           |                   |                        |                  |                  |
+|**Yarn**                          |                   |                        |                  |                  |
+|**Responsive design**             |                   |                        |                  |                  |
+|**Markdown**                      |                   |                        |                  |                  |
+|**Node.js**                       |                   |                        |                  |                  |
+|**Agile**                         |                   |                        |                  |                  |
+|**Jira**                          |                   |                        |                  |                  |
+|**GitHub**                        |                   |                        |                  |                  |
+|**Bitbucket**                     |                   |                        |                  |                  |
+|**Mobile first**                  |                   |                        |                  |                  |
+|**Progressive Enhancement**       |                   |                        |                  |                  |
+|**CSS Grid & Flex-box**           |                   |                        |                  |                  |
+|**PostCSS**                       |                   |                        |                  |                  |
+|**Accessibility**                 |                   |                        |                  |                  |
+|**Working with APIs**             |                   |                        |                  |                  |
+|**Husky**                         |                   |                        |                  |                  |
+|**Website Building**              |                   |                        |                  |                  |
+|**Publishing website**            |                   |                        |                  |                  |
+|**Netlify**                       |                   |                        |                  |                  |
+|**Backbone**                      |                   |                        |                  |                  |
+|**jQuery**                        |                   |                        |                  |                  |
+|**Bootstrap**                     |                   |                        |                  |                  |
+|**Stylus**                        |                   |                        |                  |                  |
+|**Open Source Contribution**      |                   |                        |                  |                  |
+|**Angular 4**                     |                   |                        |                  |                  |
 
 ----
 
@@ -189,10 +189,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 I'm currently interested in/excited about:
 
-+ Typescript
-+ Testing
-+ Node and the MERN stack
-+ .dotfiles
++ example
++ example
++ example
++ .example
 
 ----
 
@@ -204,38 +204,38 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 
 * [x] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
-* [x] Read a book about coding
-* [x] Open your browser console
-* [x] Get data from an API
-* [x] Hide API keys from the public
-* [x] Post a question on Stack Overflow
-* [x] Push code to GitHub or GitLab or BitBucket
+* [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
+* [ ] Use some keyboard shortcuts
+* [ ] Write tests for your code
+* [ ] Help another web developer with something they’re having trouble with
+* [ ] Attend an event about web development
+* [ ] Follow developers you admire on social media
+* [ ] Read a book about coding
+* [ ] Open your browser console
+* [ ] Get data from an API
+* [ ] Hide API keys from the public
+* [ ] Post a question on Stack Overflow
+* [ ] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
-* [x] Participate in a hackathon
-* [x] Deploy a project
+* [ ] Complete a technical interview
+* [ ] Participate in a hackathon
+* [ ] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
+* [ ] Get paid to code
+* [ ] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star :)
 
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
+<!-- **You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")** -->
 
 ----
 
 ### Acknowledgments
 
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+<!-- This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it. -->
 
 ### License
 
