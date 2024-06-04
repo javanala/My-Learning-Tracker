@@ -1,14 +1,11 @@
 # Log Index
 
-## [Full Log](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#learning-log)
+## [Full Log](https://github.com/)
 
-## 2018
+## 2024
 
-### + [February](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#sat-3-feb-18)
-### + [January](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#2-jan-18)
-### + [2018 Objectives](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
+<!-- ### + [February](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#sat-3-feb-18) -->
+### + [June](https://github.com/)
+### + [February, March, April, May](https://github.com/)
+### + [2024 Objectives](https://github.com/)
 
-## 2017
-
-### + [December](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#24-dec-17)
-### + [November](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#3-nov-17)

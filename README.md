@@ -2,15 +2,15 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[Portfolio](https://www.sykhoudeib.com/ "sykhoudeib.com") || [Blog](https://www.blog.sykhoudeib.com/ "My web dev articles")
+<!-- [Portfolio](https://www.sykhoudeib.com/ "sykhoudeib.com") || [Blog](https://www.blog.sykhoudeib.com/ "My web dev articles") -->
 
 ---
 
 ## Skills
 
-[done]: https://github.com/javanala/My-Learning-Tracker/blob/master/images/Untitled-1.png "Done"
+[done]: https://github.com/javanala/My-Learning-Tracker/blob/master/images/Untitled-01.png "Done"
 
-| Skill                        | 1<br>Introduction Learn | 2<br>Occasional Use | 3<br>Regular use | 4<br>Regular use |
+| Skill                        | 1<br>Introduction Learn | 2<br>Occasional Use | 3<br>Regular use | 4<br>Pro |
 | :--------------------------- | :---------------------: | :-----------------: | :--------------: | :--------------: |
 | **React**                    |                         |                     |                  |                  |
 | **TypeScript**               |                         |                     |                  |                  |
