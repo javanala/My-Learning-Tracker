@@ -11,48 +11,48 @@ A complete log of my web development skills, learning, resources, highlights, in
 [done]: https://github.com/javanala/My-Learning-Tracker/blob/master/images/Untitled-01.png "Done"
 
 | Skill                        | 1<br>Introduction Learn | 2<br>Occasional Use | 3<br>Regular use | 4<br>Pro |
-| :--------------------------- | :---------------------: | :-----------------: | :--------------: | :--------------: |
-| **React**                    |                         |                     |                  |                  |
-| **TypeScript**               |                         |                     |                  |                  |
-| **React hooks**              |                         |                     |                  |                  |
-| **Redux**                    |                         |                     |                  |                  |
-| **JavaScript**               |      ![done][done]      |    ![done][done]    |                  |                  |
-| **ES6**                      |                         |                     |                  |                  |
-| **Next.js**                  |                         |                     |                  |                  |
-| **HTML**                     |      ![done][done]      |    ![done][done]    |                  |                  |
-| **CSS**                      |      ![done][done]      |    ![done][done]    |                  |                  |
-| **Git**                      |      ![done][done]      |    ![done][done]    |                  |                  |
-| **Command line**             |                         |                     |                  |                  |
-| **Django**                   |      ![done][done]      |                     |                  |                  |
-| **MJML**                     |                         |                     |                  |                  |
-| **Prettier**                 |                         |                     |                  |                  |
-| **EsLint**                   |                         |                     |                  |                  |
-| **Gulp/Webpack**             |                         |                     |                  |                  |
-| **NPM**                      |                         |                     |                  |                  |
-| **Yarn**                     |                         |                     |                  |                  |
-| **Responsive design**        |      ![done][done]      |                     |                  |                  |
-| **Markdown**                 |                         |                     |                  |                  |
-| **Node.js**                  |                         |                     |                  |                  |
-| **Agile**                    |                         |                     |                  |                  |
-| **Jira**                     |                         |                     |                  |                  |
-| **GitHub**                   |      ![done][done]      |    ![done][done]    |                  |                  |
-| **Bitbucket**                |                         |                     |                  |                  |
-| **Mobile first**             |      ![done][done]      |    ![done][done]    |                  |                  |
-| **Progressive Enhancement**  |                         |                     |                  |                  |
-| **CSS Grid & Flex-box**      |      ![done][done]      |    ![done][done]    |                  |                  |
-| **PostCSS**                  |                         |                     |                  |                  |
-| **Accessibility**            |                         |                     |                  |                  |
-| **Working with APIs**        |                         |                     |                  |                  |
-| **Husky**                    |                         |                     |                  |                  |
-| **Website Building**         |                         |                     |                  |                  |
-| **Publishing website**       |                         |                     |                  |                  |
-| **Netlify**                  |                         |                     |                  |                  |
-| **Backbone**                 |                         |                     |                  |                  |
-| **jQuery**                   |                         |                     |                  |                  |
-| **Bootstrap**                |                         |                     |                  |                  |
-| **Stylus**                   |                         |                     |                  |                  |
-| **Open Source Contribution** |                         |                     |                  |                  |
-| **Angular 4**                |                         |                     |                  |                  |
+| :--------------------------- | :---------------------: | :-----------------: | :--------------: | :------: |
+| **React**                    |                         |                     |                  |          |
+| **TypeScript**               |                         |                     |                  |          |
+| **React hooks**              |                         |                     |                  |          |
+| **Redux**                    |                         |                     |                  |          |
+| **JavaScript**               |      ![done][done]      |    ![done][done]    |                  |          |
+| **ES6**                      |                         |                     |                  |          |
+| **Next.js**                  |                         |                     |                  |          |
+| **HTML**                     |      ![done][done]      |    ![done][done]    |                  |          |
+| **CSS**                      |      ![done][done]      |    ![done][done]    |                  |          |
+| **Git**                      |      ![done][done]      |    ![done][done]    |                  |          |
+| **Command line**             |                         |                     |                  |          |
+| **Django**                   |      ![done][done]      |                     |                  |          |
+| **MJML**                     |                         |                     |                  |          |
+| **Prettier**                 |                         |                     |                  |          |
+| **EsLint**                   |                         |                     |                  |          |
+| **Gulp/Webpack**             |                         |                     |                  |          |
+| **NPM**                      |                         |                     |                  |          |
+| **Yarn**                     |                         |                     |                  |          |
+| **Responsive design**        |      ![done][done]      |                     |                  |          |
+| **Markdown**                 |                         |                     |                  |          |
+| **Node.js**                  |                         |                     |                  |          |
+| **Agile**                    |                         |                     |                  |          |
+| **Jira**                     |                         |                     |                  |          |
+| **GitHub**                   |      ![done][done]      |    ![done][done]    |                  |          |
+| **Bitbucket**                |                         |                     |                  |          |
+| **Mobile first**             |      ![done][done]      |    ![done][done]    |                  |          |
+| **Progressive Enhancement**  |                         |                     |                  |          |
+| **CSS Grid & Flex-box**      |      ![done][done]      |    ![done][done]    |                  |          |
+| **PostCSS**                  |                         |                     |                  |          |
+| **Accessibility**            |                         |                     |                  |          |
+| **Working with APIs**        |                         |                     |                  |          |
+| **Husky**                    |                         |                     |                  |          |
+| **Website Building**         |                         |                     |                  |          |
+| **Publishing website**       |                         |                     |                  |          |
+| **Netlify**                  |                         |                     |                  |          |
+| **Backbone**                 |                         |                     |                  |          |
+| **jQuery**                   |                         |                     |                  |          |
+| **Bootstrap**                |                         |                     |                  |          |
+| **Stylus**                   |                         |                     |                  |          |
+| **Open Source Contribution** |                         |                     |                  |          |
+| **Angular 4**                |                         |                     |                  |          |
 
 ---
 
@@ -65,33 +65,33 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |           Status            | Year      | Course                                                   |              Tutor               |
 | :-------------------------: | :-------- | :------------------------------------------------------- | :------------------------------: |
-|   ![Completed][Completed]   | Oct 2023  | [Harvard CS50]                                           |        Harvard University        |
-|   ![Completed][Completed]   | Dec 2022  | [React and TypeScript]                                   |          [Steve Kinney]          |
-|   ![Completed][Completed]   | Nov 2022  | [TypeScript Fundamentals v3]                             |           [Mike North]           |
-|   ![Completed][Completed]   | Nov 2022  | [JavaScript: The New Hard Parts]                         |         [Will Sentence]          |
-|   ![Completed][Completed]   | Sept 2022 | [The Hard Parts of Servers and Node.js]                  |         [Will Sentence]          |
-|   ![Completed][Completed]   | Sept 2022 | [Understanding TypeScript]                               |    [Maximilian Schwarzmüller]    |
-|   ![Completed][Completed]   | Mar 2022  | [JavaScript: The Hard Parts]                             |         [Will Sentence]          |
-|   ![Completed][Completed]   | Jan 2022  | [Dotfiles from start to finish-ish]                      |        [Patrick McDonald]        |
-|   ![Completed][Completed]   | Dec 2019  | [Getting Started With Redux]                             |   [Dan Abramov] - [egghead.io]   |
-|   ![Completed][Completed]   | Dec 2019  | [The Next.js Handbook]                                   |          [Flavio Copes]          |
-|   ![Completed][Completed]   | Oct 2019  | [You Don't Know JavaScript]: Types & Grammar             |          [Kyle Simpson]          |
-|   ![Completed][Completed]   | Sept 2019 | [You Don't Know JavaScript]: Objects & Classes           |          [Kyle Simpson]          |
-|   ![Completed][Completed]   | Jul 2019  | [You Don't Know JavaScript]: Scope & Closure             |          [Kyle Simpson]          |
-|   ![Completed][Completed]   | May 2019  | [Eloquent JavaScript]                                    |        [Marijn Haverbeke]        |
-|   ![Completed][Completed]   | Feb 2019  | [The Complete JavaScript Handbook]                       |          [Flavio Copes]          |
-|   ![Completed][Completed]   | Jan 2019  | [JavaScript clean code guide]                            |         [Ryan McDermott]         |
-|   ![Completed][Completed]   | Aug 2018  | [Front-End Web Developer Nanodegree]                     |  [Udacity] - Google Scholarship  |
-|   ![Completed][Completed]   | Feb 2018  | [The Beginner's Guide to Reactjs]                        |  [Kent C Dodds] - [egghead.io]   |
-|   ![Completed][Completed]   | Jan 2018  | [Google Developer Challenge Scholarship] - Web Developer |            [Udacity]             |
-|   ![Completed][Completed]   | 2017      | [Workflow Tools for Web Developers]                      | [Christina Truong] - [Lynda.com] |
-|   ![Completed][Completed]   | 2017      | [Learning Git and GitHub]                                |  [Ray Villalobos] - [Lynda.com]  |
-|   ![Completed][Completed]   | 2017      | [CSS Essential Training 3]                               | [Christina Truong] - [Lynda.com] |
-|   ![Completed][Completed]   | 2017      | [CSS Essential Training 2]                               | [Christina Truong] - [Lynda.com] |
-|   ![Completed][Completed]   | 2017      | [Getting Your Website Online]                            | [Christina Truong] - [Lynda.com] |
-|   ![Completed][Completed]   | 2017      | [Learn Enough Command Line to Be Dangerous]              |         [Michael Hartl]          |
-|   ![Completed][Completed]   | 2017      | [Basic Front End Development Projects]                   |         [Free Code Camp]         |
-|   ![Completed][Completed]   | 2017      | [The Web Developer Bootcamp - Frond End]                 |      Colt Steele - [Udemy]       |
+|   ![Completed][Completed]   | Oct 20..  | [Harvard CS50]                                           |        Harvard University        |
+|   .......................   | Dec 20..  | [React and TypeScript]                                   |          [Steve Kinney]          |
+|   .......................   | Nov 20..  | [TypeScript Fundamentals v3]                             |           [Mike North]           |
+|   .......................   | Nov 20..  | [JavaScript: The New Hard Parts]                         |         [Will Sentence]          |
+|   .......................   | Sept 20.. | [The Hard Parts of Servers and Node.js]                  |         [Will Sentence]          |
+|   .......................   | Sept 20.. | [Understanding TypeScript]                               |    [Maximilian Schwarzmüller]    |
+|   .......................   | Mar 20..  | [JavaScript: The Hard Parts]                             |         [Will Sentence]          |
+|   .......................   | Jan 20..  | [Dotfiles from start to finish-ish]                      |        [Patrick McDonald]        |
+|   .......................   | Dec 20..  | [Getting Started With Redux]                             |   [Dan Abramov] - [egghead.io]   |
+|   .......................   | Dec 20..  | [The Next.js Handbook]                                   |          [Flavio Copes]          |
+|   .......................   | Oct 20..  | [You Don't Know JavaScript]: Types & Grammar             |          [Kyle Simpson]          |
+|   .......................   | Sept 20.. | [You Don't Know JavaScript]: Objects & Classes           |          [Kyle Simpson]          |
+|   .......................   | Jul 20..  | [You Don't Know JavaScript]: Scope & Closure             |          [Kyle Simpson]          |
+|   .......................   | May 20..  | [Eloquent JavaScript]                                    |        [Marijn Haverbeke]        |
+|   .......................   | Feb 20..  | [The Complete JavaScript Handbook]                       |          [Flavio Copes]          |
+|   .......................   | Jan 20..  | [JavaScript clean code guide]                            |         [Ryan McDermott]         |
+|   .......................   | Aug 20..  | [Front-End Web Developer Nanodegree]                     |  [Udacity] - Google Scholarship  |
+|   .......................   | Feb 20..  | [The Beginner's Guide to Reactjs]                        |  [Kent C Dodds] - [egghead.io]   |
+|   .......................   | Jan 20..  | [Google Developer Challenge Scholarship] - Web Developer |            [Udacity]             |
+|   .......................   | 20..      | [Workflow Tools for Web Developers]                      | [Christina Truong] - [Lynda.com] |
+|   .......................   | 20..      | [Learning Git and GitHub]                                |  [Ray Villalobos] - [Lynda.com]  |
+|   .......................   | 20..      | [CSS Essential Training 3]                               | [Christina Truong] - [Lynda.com] |
+|   .......................   | 20..      | [CSS Essential Training 2]                               | [Christina Truong] - [Lynda.com] |
+|   .......................   | 20..      | [Getting Your Website Online]                            | [Christina Truong] - [Lynda.com] |
+|   .......................   | 20..      | [Learn Enough Command Line to Be Dangerous]              |         [Michael Hartl]          |
+|   .......................   | 20..      | [Basic Front End Development Projects]                   |         [Free Code Camp]         |
+|   .......................   | 20..      | [The Web Developer Bootcamp - Frond End]                 |      Colt Steele - [Udemy]       |
 | ![In Progress][In Progress] |           | [JavaScript and React for Developers]                    |   [Cassidy Williams] - [Udemy]   |
 | ![In Progress][In Progress] |           | [Front End Development]                                  |         [Free Code Camp]         |
 | ![In Progress][In Progress] |           | [JavaScript30]                                           |            [Wes Bos]             |
@@ -198,17 +198,17 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 - [x] Open the computer’s terminal
 - [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
-- [ ] Use some keyboard shortcuts
+- [x] Use some keyboard shortcuts
 - [ ] Write tests for your code
 - [ ] Help another web developer with something they’re having trouble with
 - [ ] Attend an event about web development
 - [ ] Follow developers you admire on social media
 - [ ] Read a book about coding
-- [ ] Open your browser console
+- [x] Open your browser console
 - [ ] Get data from an API
 - [ ] Hide API keys from the public
 - [ ] Post a question on Stack Overflow
-- [ ] Push code to GitHub or GitLab or BitBucket
+- [x] Push code to GitHub or GitLab or BitBucket
 - [ ] Speak about something web development-related at an event
 - [ ] Complete a technical interview
 - [ ] Participate in a hackathon
