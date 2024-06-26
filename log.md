@@ -430,7 +430,16 @@ Command line. Worked on [Getting to Know the Command Line](https://www.davidbaum
 
 ---
 
-## 1 June 2024
+## 1 June - 25 June 2024
+
+Document Object Model(DOM) manipulation, Object Oriented Programming in Javascript,CRUD operations.
+Practised more in Javascript and create some projects.
+
+Since I am following a bootcamp I also worked on one javascript task for the bootcamp.
+
+Read [Getting to Know the Command Line](https://www.davidbaumgold.com/tutorials/command-line/). It was a good review for Command line
+
+[Log Index]
 
 ## February, March, April, May 2024
 
