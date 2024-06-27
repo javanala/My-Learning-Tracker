@@ -430,6 +430,10 @@ Command line. Worked on [Getting to Know the Command Line](https://www.davidbaum
 
 ---
 
+## 26 June 2024
+
+I started learning Tailwind today. it is intresting and faster.
+
 ## 1 June - 25 June 2024
 
 Document Object Model(DOM) manipulation, Object Oriented Programming in Javascript,CRUD operations.
