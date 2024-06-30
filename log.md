@@ -430,9 +430,13 @@ Command line. Worked on [Getting to Know the Command Line](https://www.davidbaum
 
 ---
 
+## 29 June 2024
+
+I am using Tailwind to create some components. This is a good way to learn and practice. I found out that it is fast and efficient to style web pages using Tailwind. I also got familiar with Alpine.js and used it to compose some behavior directly in markup files.
+
 ## 26 June 2024
 
-I started learning Tailwind today. it is intresting and faster.
+I started learning Tailwind today. it is interesting and faster.
 
 ## 1 June - 25 June 2024
 
