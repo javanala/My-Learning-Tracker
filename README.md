@@ -17,12 +17,14 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **React hooks**              |                         |                     |                  |          |
 | **Redux**                    |                         |                     |                  |          |
 | **JavaScript**               |      ![done][done]      |    ![done][done]    |                  |          |
+| **TailwindCSS**              |      ![done][done]      |                     |                  |          |
+| **Alpine.js**                |      ![done][done]      |                     |                  |          |
 | **ES6**                      |                         |                     |                  |          |
 | **Next.js**                  |                         |                     |                  |          |
 | **HTML**                     |      ![done][done]      |    ![done][done]    |                  |          |
 | **CSS**                      |      ![done][done]      |    ![done][done]    |                  |          |
 | **Git**                      |      ![done][done]      |    ![done][done]    |                  |          |
-| **Command line**             |                         |                     |                  |          |
+| **Command line**             |      ![done][done]      |    ![done][done]    |  ![done][done]   |          |
 | **Django**                   |      ![done][done]      |                     |                  |          |
 | **MJML**                     |                         |                     |                  |          |
 | **Prettier**                 |                         |                     |                  |          |
@@ -42,14 +44,14 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **CSS Grid & Flex-box**      |      ![done][done]      |    ![done][done]    |                  |          |
 | **PostCSS**                  |                         |                     |                  |          |
 | **Accessibility**            |                         |                     |                  |          |
-| **Working with APIs**        |                         |                     |                  |          |
+| **Working with APIs**        |      ![done][done]      |                     |                  |          |
 | **Husky**                    |                         |                     |                  |          |
 | **Website Building**         |                         |                     |                  |          |
 | **Publishing website**       |                         |                     |                  |          |
 | **Netlify**                  |                         |                     |                  |          |
 | **Backbone**                 |                         |                     |                  |          |
 | **jQuery**                   |                         |                     |                  |          |
-| **Bootstrap**                |                         |                     |                  |          |
+| **Bootstrap**                |      ![done][done]      |                     |                  |          |
 | **Stylus**                   |                         |                     |                  |          |
 | **Open Source Contribution** |                         |                     |                  |          |
 | **Angular 4**                |                         |                     |                  |          |
