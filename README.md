@@ -55,6 +55,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **Stylus**                   |                         |                     |                  |          |
 | **Open Source Contribution** |                         |                     |                  |          |
 | **Angular 4**                |                         |                     |                  |          |
+| **Heroicons/Svgomg**         |      ![done][done]      |    ![done][done]    |                  |          |
 
 ---
 
