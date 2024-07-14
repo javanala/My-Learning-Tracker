@@ -12,32 +12,32 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 | Skill                        | 1<br>Introduction Learn | 2<br>Occasional Use | 3<br>Regular use | 4<br>Pro |
 | :--------------------------- | :---------------------: | :-----------------: | :--------------: | :------: |
-| **React**                    |                         |                     |                  |          |
+| **React**                    |      ![done][done]      |                     |                  |          |
 | **TypeScript**               |                         |                     |                  |          |
 | **React hooks**              |                         |                     |                  |          |
 | **Redux**                    |                         |                     |                  |          |
 | **JavaScript**               |      ![done][done]      |    ![done][done]    |                  |          |
-| **TailwindCSS**              |      ![done][done]      |                     |                  |          |
+| **TailwindCSS**              |      ![done][done]      |    ![done][done]    |                  |          |
 | **Alpine.js**                |      ![done][done]      |                     |                  |          |
 | **ES6**                      |                         |                     |                  |          |
 | **Next.js**                  |                         |                     |                  |          |
-| **HTML**                     |      ![done][done]      |    ![done][done]    |                  |          |
-| **CSS**                      |      ![done][done]      |    ![done][done]    |                  |          |
+| **HTML**                     |      ![done][done]      |    ![done][done]    |  ![done][done]   |          |
+| **CSS**                      |      ![done][done]      |    ![done][done]    |  ![done][done]   |          |
 | **Git**                      |      ![done][done]      |    ![done][done]    |                  |          |
+| **GitHub**                   |      ![done][done]      |    ![done][done]    |                  |          |
 | **Command line**             |      ![done][done]      |    ![done][done]    |  ![done][done]   |          |
 | **Django**                   |      ![done][done]      |                     |                  |          |
 | **MJML**                     |                         |                     |                  |          |
-| **Prettier**                 |                         |                     |                  |          |
-| **EsLint**                   |                         |                     |                  |          |
+| **Prettier**                 |      ![done][done]      |    ![done][done]    |                  |          |
+| **EsLint**                   |      ![done][done]      |                     |                  |          |
 | **Gulp/Webpack**             |                         |                     |                  |          |
 | **NPM**                      |                         |                     |                  |          |
 | **Yarn**                     |                         |                     |                  |          |
-| **Responsive design**        |      ![done][done]      |                     |                  |          |
+| **Responsive design**        |      ![done][done]      |    ![done][done]    |                  |          |
 | **Markdown**                 |                         |                     |                  |          |
 | **Node.js**                  |                         |                     |                  |          |
 | **Agile**                    |                         |                     |                  |          |
 | **Jira**                     |                         |                     |                  |          |
-| **GitHub**                   |      ![done][done]      |    ![done][done]    |                  |          |
 | **Bitbucket**                |                         |                     |                  |          |
 | **Mobile first**             |      ![done][done]      |    ![done][done]    |                  |          |
 | **Progressive Enhancement**  |                         |                     |                  |          |
