@@ -193,6 +193,17 @@ I'm currently interested in/excited about:
 
 ---
 
+## Useful links
+
+Some useful links I found:
+
+- [Useful vs code extensions for react](https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i).
+- example
+- example
+- .example
+
+---
+
 ## Web Development Checklist
 
 This is a list of basic objectives to meet on the road to mastering web development.
@@ -200,7 +211,7 @@ This is a list of basic objectives to meet on the road to mastering web developm
 It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
 
 - [x] Open the computer’s terminal
-- [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
+- [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 - [x] Use some keyboard shortcuts
 - [ ] Write tests for your code
 - [ ] Help another web developer with something they’re having trouble with
