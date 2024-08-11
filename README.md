@@ -198,8 +198,11 @@ I'm currently interested in/excited about:
 Some useful links I found:
 
 - [Useful vs code extensions for react](https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i).
-- example
-- example
+- [Useful React UI Tools](https://mui.com/material-ui/all-components/)
+- [React](https://www.npmjs.com/)
+- [React select](https://www.npmjs.com/package/react-select)
+- [Heroicons](https://heroicons.com/)
+- [Toster-React notifications](https://react-hot-toast.com/)
 - .example
 
 ---
