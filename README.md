@@ -14,7 +14,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | :--------------------------- | :---------------------: | :-----------------: | :--------------: | :------: |
 | **React**                    |      ![done][done]      |                     |                  |          |
 | **TypeScript**               |                         |                     |                  |          |
-| **React hooks**              |                         |                     |                  |          |
+| **React hooks**              |      ![done][done]      |                     |                  |          |
 | **Redux**                    |                         |                     |                  |          |
 | **JavaScript**               |      ![done][done]      |    ![done][done]    |                  |          |
 | **TailwindCSS**              |      ![done][done]      |    ![done][done]    |                  |          |
@@ -34,7 +34,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **NPM**                      |                         |                     |                  |          |
 | **Yarn**                     |                         |                     |                  |          |
 | **Responsive design**        |      ![done][done]      |    ![done][done]    |                  |          |
-| **Markdown**                 |                         |                     |                  |          |
+| **Markdown**                 |      ![done][done]      |                     |                  |          |
 | **Node.js**                  |                         |                     |                  |          |
 | **Agile**                    |                         |                     |                  |          |
 | **Jira**                     |                         |                     |                  |          |
@@ -218,11 +218,11 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 - [x] Use some keyboard shortcuts
 - [ ] Write tests for your code
 - [ ] Help another web developer with something they’re having trouble with
-- [ ] Attend an event about web development
+- [x] Attend an event about web development
 - [ ] Follow developers you admire on social media
 - [ ] Read a book about coding
 - [x] Open your browser console
-- [ ] Get data from an API
+- [x] Get data from an API
 - [ ] Hide API keys from the public
 - [ ] Post a question on Stack Overflow
 - [x] Push code to GitHub or GitLab or BitBucket

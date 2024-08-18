@@ -428,11 +428,13 @@ Command line. Worked on [Getting to Know the Command Line](https://www.davidbaum
 
 [Log Index]
 
----
+## 18 August 2024
+
+In recent weeks, I’ve been working on and creating projects based on what I’ve learned so far, and I’ve also started exploring React. I find the concept quite intriguing and have already discovered various aspects such as JSX, components, props, children props, event handling in React, states, lifting state up, and prop drilling, among many other fascinating topics. I’ll continue to update my progress here as I advance in my learning journey.
 
 ## 29 June 2024
 
-I am using Tailwind to create some components. This is a good way to learn and practice. I found out that it is fast and efficient to style web pages using Tailwind. I also got familiar with Alpine.js and used it to compose some behavior directly in markup files.
+I am using Tailwind to create some components. I found out that it is fast and efficient to style web pages using Tailwind. I also got familiar with Alpine.js and used it to compose some behavior directly in markup files.
 
 ## 26 June 2024
 
@@ -453,7 +455,7 @@ Read [Getting to Know the Command Line](https://www.davidbaumgold.com/tutorials/
 
 Having knowledge in both computer science and design and having passion about web design, a few months back I have decided to dive deep into learning web development. During my search I came across some inspiring stories and found this interesting idea to record my learnings here. This is a way to organize, keep track and share my learnings.
 
-This 4 month I studied HTML and CSS in more detail and learnt some important parts of JavaScript. During this time, along with learning I did different projects which helped me to get more deep understanding of the applicatin of what I have learnt.
+This 4 month I studied HTML and CSS in more detail and learnt some important parts of JavaScript. During this time, along with learning I did different projects which helped me to get more deep understanding of the applicatins of what I have learnt.
 
 ### [Designing a front of web page using HTML and CSS](https://github.com/)
 
