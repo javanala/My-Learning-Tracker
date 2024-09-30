@@ -10,52 +10,52 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [done]: https://github.com/javanala/My-Learning-Tracker/blob/master/images/Untitled-s-01.png "Done"
 
-| Skill                        | 1<br>Introduction Learn | 2<br>Occasional Use | 3<br>Regular use | 4<br>Pro |
-| :--------------------------- | :---------------------: | :-----------------: | :--------------: | :------: |
-| **React**                    |      ![done][done]      |                     |                  |          |
-| **TypeScript**               |                         |                     |                  |          |
-| **React hooks**              |      ![done][done]      |                     |                  |          |
-| **Redux**                    |                         |                     |                  |          |
-| **JavaScript**               |      ![done][done]      |    ![done][done]    |                  |          |
-| **TailwindCSS**              |      ![done][done]      |    ![done][done]    |                  |          |
-| **Alpine.js**                |      ![done][done]      |                     |                  |          |
-| **ES6**                      |                         |                     |                  |          |
-| **Next.js**                  |                         |                     |                  |          |
-| **HTML**                     |      ![done][done]      |    ![done][done]    |  ![done][done]   |          |
-| **CSS**                      |      ![done][done]      |    ![done][done]    |  ![done][done]   |          |
-| **Git**                      |      ![done][done]      |    ![done][done]    |                  |          |
-| **GitHub**                   |      ![done][done]      |    ![done][done]    |                  |          |
-| **Command line**             |      ![done][done]      |    ![done][done]    |  ![done][done]   |          |
-| **Django**                   |      ![done][done]      |                     |                  |          |
-| **MJML**                     |                         |                     |                  |          |
-| **Prettier**                 |      ![done][done]      |    ![done][done]    |                  |          |
-| **EsLint**                   |      ![done][done]      |                     |                  |          |
-| **Gulp/Webpack**             |                         |                     |                  |          |
-| **NPM**                      |                         |                     |                  |          |
-| **Yarn**                     |                         |                     |                  |          |
-| **Responsive design**        |      ![done][done]      |    ![done][done]    |                  |          |
-| **Markdown**                 |      ![done][done]      |                     |                  |          |
-| **Node.js**                  |                         |                     |                  |          |
-| **Agile**                    |                         |                     |                  |          |
-| **Jira**                     |                         |                     |                  |          |
-| **Bitbucket**                |                         |                     |                  |          |
-| **Mobile first**             |      ![done][done]      |    ![done][done]    |                  |          |
-| **Progressive Enhancement**  |                         |                     |                  |          |
-| **CSS Grid & Flex-box**      |      ![done][done]      |    ![done][done]    |                  |          |
-| **PostCSS**                  |                         |                     |                  |          |
-| **Accessibility**            |                         |                     |                  |          |
-| **Working with APIs**        |      ![done][done]      |                     |                  |          |
-| **Husky**                    |                         |                     |                  |          |
-| **Website Building**         |                         |                     |                  |          |
-| **Publishing website**       |                         |                     |                  |          |
-| **Netlify**                  |                         |                     |                  |          |
-| **Backbone**                 |                         |                     |                  |          |
-| **jQuery**                   |                         |                     |                  |          |
-| **Bootstrap**                |      ![done][done]      |                     |                  |          |
-| **Stylus**                   |                         |                     |                  |          |
-| **Open Source Contribution** |                         |                     |                  |          |
-| **Angular 4**                |                         |                     |                  |          |
-| **Heroicons/Svgomg**         |      ![done][done]      |    ![done][done]    |                  |          |
+| Skill                        | 1<br>Introduction Learn | 2<br>Occasional Use | 3<br>Regular use |
+| :--------------------------- | :---------------------: | :-----------------: | :--------------: | 
+| **TypeScript**               |                         |                     |                  |         
+| **React**                    |      ![done][done]      |                     |                  |         
+| **React hooks**              |      ![done][done]      |                     |                  |         
+| **Redux**                    |                         |                     |                  |         
+| **JavaScript**               |      ![done][done]      |    ![done][done]    |                  |         
+| **TailwindCSS**              |      ![done][done]      |    ![done][done]    |                  |         
+| **Alpine.js**                |      ![done][done]      |                     |                  |         
+| **ES6**                      |                         |                     |                  |         
+| **Next.js**                  |                         |                     |                  |         
+| **HTML**                     |      ![done][done]      |    ![done][done]    |  ![done][done]   |         
+| **CSS**                      |      ![done][done]      |    ![done][done]    |  ![done][done]   |         
+| **Git**                      |      ![done][done]      |    ![done][done]    |                  |         
+| **GitHub**                   |      ![done][done]      |    ![done][done]    |                  |         
+| **Command line**             |      ![done][done]      |    ![done][done]    |  ![done][done]   |         
+| **Django**                   |      ![done][done]      |    ![done][done]    |                  |         
+| **MJML**                     |                         |                     |                  |         
+| **Prettier**                 |      ![done][done]      |    ![done][done]    |                  |         
+| **EsLint**                   |      ![done][done]      |                     |                  |         
+| **Gulp/Webpack**             |                         |                     |                  |         
+| **NPM**                      |                         |                     |                  |         
+| **Yarn**                     |                         |                     |                  |         
+| **Responsive design**        |      ![done][done]      |    ![done][done]    |  ![done][done]   |         
+| **Markdown**                 |      ![done][done]      |                     |                  |         
+| **Node.js**                  |                         |                     |                  |         
+| **Agile**                    |                         |                     |                  |         
+| **Jira**                     |                         |                     |                  |         
+| **Bitbucket**                |                         |                     |                  |         
+| **Mobile first**             |      ![done][done]      |    ![done][done]    |                  |         
+| **Progressive Enhancement**  |                         |                     |                  |          
+| **CSS Grid & Flex-box**      |      ![done][done]      |    ![done][done]    |                  |          
+| **PostCSS**                  |                         |                     |                  |          
+| **Accessibility**            |                         |                     |                  |          
+| **Working with APIs**        |      ![done][done]      |                     |                  |          
+| **Husky**                    |                         |                     |                  |          
+| **Website Building**         |                         |                     |                  |          
+| **Publishing website**       |                         |                     |                  |          
+| **Netlify**                  |                         |                     |                  |          
+| **Backbone**                 |                         |                     |                  |          
+| **jQuery**                   |                         |                     |                  |          
+| **Bootstrap**                |      ![done][done]      |    ![done][done]    |                  |          
+| **Stylus**                   |                         |                     |                  |          
+| **Open Source Contribution** |                         |                     |                  |          
+| **Angular 4**                |                         |                     |                  |          
+| **Heroicons/Svgomg**         |      ![done][done]      |    ![done][done]    |                  |          
 
 ---
 
@@ -203,7 +203,10 @@ Some useful links I found:
 - [React select](https://www.npmjs.com/package/react-select)
 - [Heroicons](https://heroicons.com/)
 - [Toster-React notifications](https://react-hot-toast.com/)
-- .example
+- [UI samples](https://uiverse.io/)
+- [React-leaflet-map](https://react-leaflet.js.org/)
+- exampls
+- exampls
 
 ---
 

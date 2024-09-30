@@ -422,9 +422,9 @@ Completed [Learn Enough Command Line to Be Dangerous](https://www.learnenough.co
 
 ---
 
-## 5 Nov 17
+## 30 September 2024
 
-Command line. Worked on [Getting to Know the Command Line](https://www.davidbaumgold.com/tutorials/command-line/) and [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+For the past few weeks, I have made significant progress with React and the [CS50W](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript) projects. Engaging in hands-on projects has greatly enhanced my understanding of the concepts I've learned. Each project has provided me with valuable practical experience, allowing me to apply my knowledge in real-world scenarios. I'm excited to continue this journey and further develop my skills!
 
 [Log Index]
 
