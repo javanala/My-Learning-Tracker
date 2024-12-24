@@ -6,13 +6,13 @@
 
 ## Full [Log Index]
 
-[**\*\*\*\***\*\***\*\*** 2018 Objectives **\*\***\*\***\*\*\*\***](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
+[**\*\*\*\***\*\***\*\*** 2024 Objectives **\*\***\*\***\*\*\*\***](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md#28-dec-17)
 
 ---
 
 ---
 
-## Sun 11 Feb 18
+<!-- ## Sun 11 Feb 18
 
 Finished the React Beginners course and started Cassidy William's course JavaScript and React for Developers. Learning about DOM, events and callbacks, AJAX, and JSON.
 
@@ -420,7 +420,13 @@ Completed [Learn Enough Command Line to Be Dangerous](https://www.learnenough.co
 
 [Log Index]
 
----
+--- -->
+
+## 23 December 2024
+
+ Over the past few months, I have been focusing on the [CS50W](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript) course and its projects. I successfully completed the course and its projects, earning a valuable [certificate from Harvard](https://cs50.harvard.edu/certificates/4bfb39ed-9e23-4f06-a86b-875f3cf448e8)✨. As part of the course, I created several web applications, and you can view a short video of these projects on YouTube. Alongside the course, I also worked on a few personal web projects, further expanding my skills. Now, I’ve decided to create a personal portfolio website to share all of my work and showcase my skills. It’s exciting to have reached the point where I can design my own webpage and present my projects to the world.😊
+[Log Index]
+
 
 ## 30 September 2024
 

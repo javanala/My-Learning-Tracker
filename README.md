@@ -19,7 +19,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **JavaScript**               |      ![done][done]      |    ![done][done]    |                  |         
 | **TailwindCSS**              |      ![done][done]      |    ![done][done]    |                  |         
 | **Alpine.js**                |      ![done][done]      |                     |                  |         
-| **ES6**                      |                         |                     |                  |         
+| **ES6**                      |      ![done][done]      |    ![done][done]    |                  |         
 | **Next.js**                  |                         |                     |                  |         
 | **HTML**                     |      ![done][done]      |    ![done][done]    |  ![done][done]   |         
 | **CSS**                      |      ![done][done]      |    ![done][done]    |  ![done][done]   |         
@@ -39,20 +39,21 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **Agile**                    |                         |                     |                  |         
 | **Jira**                     |                         |                     |                  |         
 | **Bitbucket**                |                         |                     |                  |         
-| **Mobile first**             |      ![done][done]      |    ![done][done]    |                  |         
+| **Mobile first**             |      ![done][done]      |    ![done][done]    |  ![done][done]   |         
 | **Progressive Enhancement**  |                         |                     |                  |          
-| **CSS Grid & Flex-box**      |      ![done][done]      |    ![done][done]    |                  |          
+| **CSS Grid & Flex-box**      |      ![done][done]      |    ![done][done]    |  ![done][done]   |          
 | **PostCSS**                  |                         |                     |                  |          
 | **Accessibility**            |                         |                     |                  |          
 | **Working with APIs**        |      ![done][done]      |                     |                  |          
 | **Husky**                    |                         |                     |                  |          
-| **Website Building**         |                         |                     |                  |          
-| **Publishing website**       |                         |                     |                  |          
+| **Website Building**         |      ![done][done]      |                     |                  |          
+| **Publishing website**       |      ![done][done]      |                     |                  |          
 | **Netlify**                  |                         |                     |                  |          
 | **Backbone**                 |                         |                     |                  |          
 | **jQuery**                   |                         |                     |                  |          
-| **Bootstrap**                |      ![done][done]      |    ![done][done]    |                  |          
-| **Stylus**                   |                         |                     |                  |          
+| **Bootstrap**                |      ![done][done]      |    ![done][done]    |   ![done][done]  |          
+| **Stylus**                   |                         |                     |                  |   
+| **SQL**                      |      ![done][done]      |                     |                  |         
 | **Open Source Contribution** |                         |                     |                  |          
 | **Angular 4**                |                         |                     |                  |          
 | **Heroicons/Svgomg**         |      ![done][done]      |    ![done][done]    |                  |          
@@ -189,7 +190,7 @@ I'm currently interested in/excited about:
 - example
 - example
 - example
-- .example
+- example
 
 ---
 
@@ -232,7 +233,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 - [ ] Speak about something web development-related at an event
 - [ ] Complete a technical interview
 - [ ] Participate in a hackathon
-- [ ] Deploy a project
+- [x] Deploy a project
 - [ ] Ship your project to a store
 - [ ] Contribute to open source
 - [ ] Get paid to code
